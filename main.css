@@ -1,0 +1,54 @@
+html {
+
+}
+body{
+    background-color: tomato;
+
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+nav {
+
+}
+a {
+    word-spacing: 50px;
+    font-size: 40px;
+    color: white;
+}
+
+li {
+    display: inline-block;
+    word-spacing: 30px;
+}
+
+header{
+ background-image: url(https://i.ytimg.com/vi/6y-OAsRZbas/maxresdefault.jpg);
+ background-position: center;
+ background-size: cover;
+ background-repeat: no-repeat;
+ height: 400px;
+}
+
+
+.navtext {
+    text-align: center;
+=    color: green;
+}
+
+.container {
+
+
+}
+
+.container.second-class{
+
+
+}
+
+.container.second-class # {
+
+
+}
